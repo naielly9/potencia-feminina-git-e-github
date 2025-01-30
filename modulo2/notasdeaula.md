@@ -58,4 +58,7 @@ no terminal do vs code colocar git status
 ## git add [caminho do arquivo]
  **adiciona um arquivo especifico**
 
- 
+ ## instalacao do git
+ ### configuracao git
+
+ ### comandos
