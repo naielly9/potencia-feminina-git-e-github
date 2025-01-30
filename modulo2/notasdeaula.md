@@ -62,3 +62,6 @@ no terminal do vs code colocar git status
  ### configuracao git
 
  ### comandos
+
+ ## git commit
+ 
