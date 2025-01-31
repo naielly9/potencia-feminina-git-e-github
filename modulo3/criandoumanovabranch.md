@@ -3,3 +3,6 @@
 Comando necessário para a criação de uma nova branch via terminal:
 
 git chechout -b (nome da nova branch)
+
+* significa a branch que voce está atualmente
+
