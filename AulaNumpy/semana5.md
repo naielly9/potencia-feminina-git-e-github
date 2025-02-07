@@ -42,3 +42,10 @@ consigo manipular um int para boleano e o que é 0 fica false e o restante true
 
 -------------------------------------
 
+PARA SELECIONAR SOMENTE UMA COLUNA INTEIRA EU USO ":", E O INDEX
+
+para fatiar (slicing) um array de 2 dimensão
+coloco [linhha:coluna, linha:coluna] que ele se encontra
+
+eixo(axis tenho 0(vertical) e o 1(horizontal))
+
